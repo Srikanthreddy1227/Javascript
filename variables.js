@@ -14,3 +14,5 @@ console.log(age);
 
 const  place="hyderabad";
 console.log(place);
+
+// const is used to declare a block-scoped variable in JavaScript that cannot be reassigned or redeclared. It is used for values that should remain constant throughout the program. However, if the value is an object or an array, its properties or elements can still be modified.
