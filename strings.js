@@ -17,4 +17,8 @@
 // console.log(name.charAt(0));
 // console.log(name.charAt(6));
 
+let name="Srikanth Reddy";
+console.log(name.charAt(0));
+console.log(name.slice(0,3));
+
 
